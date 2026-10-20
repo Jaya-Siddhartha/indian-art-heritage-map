@@ -1,5 +1,9 @@
 # Presentation Guide: Colours of India
 
+**Team:** Addanki Jaya Siddhartha (RA2411003010774), Nallana Saahithi (RA2411003010772), Aryan Sagar Patike (RA2411003010722), Yogesh Reddy Pelluru (RA2411003010742), Gopalchetty Goutam (RA2411003010767)
+
+**Live site:** https://indian-art-heritage-map-nine.vercel.app
+
 ## Before you start (2 minutes before class)
 
 - Open the deployed site (or `index.html`) in a full-screen browser window. **An internet connection is needed** for the map and photos.

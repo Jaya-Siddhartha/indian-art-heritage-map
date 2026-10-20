@@ -2,6 +2,18 @@
 
 **Assignment:** Interactive Art Map (Indian Art History, 10 marks)
 
+### Team
+
+| Name | Register number |
+|---|---|
+| Addanki Jaya Siddhartha | RA2411003010774 |
+| Nallana Saahithi | RA2411003010772 |
+| Aryan Sagar Patike | RA2411003010722 |
+| Yogesh Reddy Pelluru | RA2411003010742 |
+| Gopalchetty Goutam | RA2411003010767 |
+
+**Live site:** https://indian-art-heritage-map-nine.vercel.app
+
 An interactive digital atlas that shows **where** Indian art traditions are found. Fifteen locations, from prehistoric rock art at Bhimbetka to the 20th-century Bengal School in Kolkata, are placed on a real map of India. Each location has photographs, history, techniques, patrons and references.
 
 ---

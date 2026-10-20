@@ -373,6 +373,17 @@ h1, h2, h3, h4 { font-family: var(--serif); font-weight: 600; line-height: 1.15;
 .about-grid h3 { font-size: 20px; margin: 0 0 8px; color: var(--green-dark); }
 .about-grid h3:not(:first-child) { margin-top: 18px; }
 .about-grid p { margin: 0; color: #4a4137; font-size: 15px; }
+.about-grid .team { grid-column: 1 / -1; }
+.team-list {
+  list-style: none; margin: 4px 0 0; padding: 0;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px;
+}
+.team-list li {
+  display: flex; flex-direction: column; gap: 2px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px;
+}
+.team-name { font: 600 16px var(--serif); color: var(--ink); }
+.team-id { font-size: 13px; color: var(--muted); letter-spacing: .04em; }
 .tech { margin: 0; padding-left: 18px; font-size: 15px; color: #4a4137; }
 .tech li { margin-bottom: 6px; }
 .region-bars { display: grid; gap: 10px; margin: 6px 0 12px; }
